@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "MES0001": {
+      "prev": []
+    },
+    "MES0002": {
+      "prev": ["MES0001"]
+    },
+    "MedicalOrder": {
+      "prev": ["MES0002"],
+      "poster": [
+        {
+          "condition": [
+            "判断规则1"
+          ],
+          "config": {},
+          "handle": ""
+        }
+      ],
+      "children": ["MedicalOrderLoop"]
+    },
+    "MedicalOrderLoop": {
+      "prev": ["MedicalOrder"]
+    }
+  }
+}

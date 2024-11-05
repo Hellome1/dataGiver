@@ -1,0 +1,42 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "hosPatRegNo": "0007559482",
+      "patDecDate": "",
+      "patGenderCode": "1",
+      "hdcPatientId": "00001_6648610",
+      "patMariStatusDesc": "",
+      "patCountryCode": "1",
+      "patMotherId": "",
+      "businessFieldCode": "00001",
+      "patOccuDesc": "其他",
+      "patBirthDate": "1970-06-22",
+      "patMobPhone": "1*********1",
+      "patientPicture": "",
+      "hdcPatRegNo": "00001_0007559482",
+      "patNationDesc": "汉族",
+      "patientAddress": "",
+      "hosPatientId": "6648610",
+      "businessFieldDesc": "",
+      "patientName": "崔*晖",
+      "patGenderDesc": "男",
+      "patCountryDesc": "男",
+      "hdcPatMotherId": "",
+      "hdcChildId": "",
+      "patMariStatusCode": "",
+      "patNationCode": "1",
+      "patMediNo": "",
+      "linkPatientList": [],
+      "patIdNo": "510102197006227012",
+      "patOccuCode": "78",
+      "patChildId": "",
+      "patDecTime": ""
+    }
+  ],
+  "pageSize": 10,
+  "draw": 1,
+  "message": "操作成功",
+  "recordsTotal": 1,
+  "pages": 1
+}

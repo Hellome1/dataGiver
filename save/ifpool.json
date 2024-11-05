@@ -1,0 +1,24 @@
+[
+  {
+    "title": "判断规则1",
+    "rule": [
+      {
+        "left": "patIdNo",
+        "mid": "equal",
+        "right": "0000813452",
+        "result": "true"
+      }
+    ]
+  },
+  {
+    "title": "判断规则2",
+    "rule": [
+      {
+        "left": "encId",
+        "mid": "equal",
+        "right": "0003325",
+        "result": "true"
+      }
+    ]
+  }
+]
